@@ -1,16 +1,19 @@
-## Hi there 👋
+## Ivan Kolas — ABAP Developer
 
-<!--
-**kolosiv/kolosiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SAP ABAP developer, ~5 years, experience across SAP CRM and ABAP Cloud / RAP on BTP.
 
-Here are some ideas to get you started:
+**Built**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[`abap-rap-credit-application`](https://github.com/kolosiv/abap-rap-credit-application) —
+a managed, draft-enabled RAP business object: CDS, behavior definitions, validations,
+determinations, actions, OData V4, Fiori Elements, external HTTP integration, ABAP Unit.
+README includes the engineering decisions and their trade-offs, not just a feature list.
+
+**Stack**
+
+`ABAP` `ABAP for Cloud Development / RAP` `CDS` `OData V4` `Fiori Elements`
+`SAP CRM` `abapGit`
+
+**Contact**
+
+[LinkedIn](#) · [email](kolosiv02@gmail.com)
