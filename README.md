@@ -16,4 +16,4 @@ README includes the engineering decisions and their trade-offs, not just a featu
 
 **Contact**
 
-[LinkedIn](#) · [email](kolosiv02@gmail.com)
+[LinkedIn](#) · [email](https://kolosiv02@gmail.com)
